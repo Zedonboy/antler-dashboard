@@ -1,6 +1,4 @@
 import React from "react";
-//@ts-ignore
-import Helmet from "react-helmet";
 import "./App.css";
 import Card from "./components/Card";
 import BarChartSection from "./components/BarChartSection";
